@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d61a306f24f2e047bf0df558e65a22b, type: 3}
+  m_Name: melodia
+  m_EditorClassIdentifier: Assembly-CSharp::StoryboardAsset
+  slides:
+  - image: {fileID: 8290704047672302782, guid: f910f12693008aa4f888b44d2cb91049, type: 3}
+    text: 
+    lines: []
+    autoAdvanceLines: 0
+    holdSecondsPerLine: 0
+    voiceOver: {fileID: 0}
+    autoAdvance: 0
+    holdSeconds: 0
+    kenBurns: 0
+    panStart01: {x: 0, y: 0}
+    panEnd01: {x: 0, y: 0}
+    zoomStart: 0
+    zoomEnd: 0
+  - image: {fileID: -7691030332887561676, guid: 265390f138ef0134ab78eb48479339fa, type: 3}
+    text: 
+    lines: []
+    autoAdvanceLines: 0
+    holdSecondsPerLine: 0
+    voiceOver: {fileID: 0}
+    autoAdvance: 0
+    holdSeconds: 0
+    kenBurns: 0
+    panStart01: {x: 0, y: 0}
+    panEnd01: {x: 0, y: 0}
+    zoomStart: 0
+    zoomEnd: 0
+  - image: {fileID: 1422376825146708734, guid: 5806d1f19bb8c6c4e849c1d5981729fb, type: 3}
+    text: 
+    lines: []
+    autoAdvanceLines: 0
+    holdSecondsPerLine: 0
+    voiceOver: {fileID: 0}
+    autoAdvance: 0
+    holdSeconds: 0
+    kenBurns: 0
+    panStart01: {x: 0, y: 0}
+    panEnd01: {x: 0, y: 0}
+    zoomStart: 0
+    zoomEnd: 0

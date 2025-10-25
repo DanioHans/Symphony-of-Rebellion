@@ -1,0 +1,29 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "conviction",
+    "trust",
+    "suspicion",
+    "sentiment",
+    "keywordHits",
+    "secretTriggered",
+    "reason",
+    "hint"
+  ],
+  "properties": {
+    "conviction": { "type": "integer", "minimum": 0, "maximum": 100 },
+    "trust":      { "type": "integer", "minimum": 0, "maximum": 100 },
+    "suspicion":  { "type": "integer", "minimum": 0, "maximum": 100 },
+    "sentiment":  { "type": "number",  "minimum": -1, "maximum": 1 },
+    "keywordHits": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 0
+    },
+    "secretTriggered": { "type": "boolean" },
+    "reason": { "type": "string" },
+    "hint":   { "type": "string" }
+  }
+}

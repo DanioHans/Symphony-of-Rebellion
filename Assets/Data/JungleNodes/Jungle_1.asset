@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9cf9fdbabe7e1d442978c619ac166761, type: 3}
+  m_Name: Jungle_1
+  m_EditorClassIdentifier: Assembly-CSharp::JungleNode
+  background: {fileID: -4437246721069372463, guid: e4da516019cc2f746b71c5a10ff3f883, type: 3}
+  hintOverlay: {fileID: 0}
+  isDeadEnd: 0
+  deadEndSfx: {fileID: 0}
+  hasSoundHotspot: 0
+  hotspotX01: 0.5
+  hotspotY01: 0.5
+  triggerRadiusPx: 80
+  hotspotLoop: {fileID: 0}
+  hotspotLeadsToIndex: -1
+  exits:
+  - label: Left
+    targetIndex: 1
+    hasRect: 0
+    rect01:
+      serializedVersion: 2
+      x: 700
+      y: 400
+      width: 100
+      height: 100
+  - label: Right
+    targetIndex: 5
+    hasRect: 0
+    rect01:
+      serializedVersion: 2
+      x: 1200
+      y: 500
+      width: 100
+      height: 100

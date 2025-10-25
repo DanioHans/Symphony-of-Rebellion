@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5d4eef2bb57e4d52a3768910d54381a, type: 3}
+  m_Name: playtogether_aurelia
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueSequence
+  lines:
+  - speaker: 
+    text: '[You begin to play]
+
+'
+    portrait: {fileID: 0}
+    choices: []
+  - speaker: YOU
+    text: "Then play with me.\r\nJust one song \u2014 for the ghosts, if not for
+      yourself.\r\n"
+    portrait: {fileID: -1415270251334004555, guid: 44f32b622977fd74cab25f609ba2f8a4, type: 3}
+    choices: []
+  - speaker: 
+    text: "[She hesitates, then joins in \u2014 the melody falters, reconnects, slowly
+      rebuilding the theme of an old Melodian anthem.]\r\n"
+    portrait: {fileID: 0}
+    choices: []
+  - speaker: AURELIA
+    text: "I remember this\u2026\r\nWe played it the night the Federation banned
+      public performance.\r\n"
+    portrait: {fileID: 148769857890242446, guid: ce94a28899b49a3478c5d6857eccde7b, type: 3}
+    choices: []
+  - speaker: YOU
+    text: "And we promised to keep playing \u2014 no matter what.\r\n"
+    portrait: {fileID: -1415270251334004555, guid: 44f32b622977fd74cab25f609ba2f8a4, type: 3}
+    choices: []

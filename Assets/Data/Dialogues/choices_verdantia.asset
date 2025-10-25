@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5d4eef2bb57e4d52a3768910d54381a, type: 3}
+  m_Name: choices_verdantia
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueSequence
+  lines:
+  - speaker: REX
+    text: Well, this is cozy. Two roads, both looking like death in stereo.
+    portrait: {fileID: 2933651739717382301, guid: 0e260a8545833d940833ad70475a43c0, type: 3}
+    choices: []
+  - speaker: YOU
+    text: "Sensors can\u2019t cut through the canopy. We\u2019ll have to choose \u2014
+      left or right."
+    portrait: {fileID: 0}
+    choices: []
+  - speaker: LYRA
+    text: "The right path\u2026 hear that? There\u2019s rhythm in the wind. Slow,
+      steady, almost mechanical. Could be machinery \u2014 maybe a power source."
+    portrait: {fileID: 0}
+    choices: []
+  - speaker: REX
+    text: "Or a trap. The Feds loved hiding drones behind \u201Csteady rhythms.\u201D\r\nThe
+      left feels safer \u2014 quiet, stable footing.\r\n"
+    portrait: {fileID: 0}
+    choices: []
+  - speaker: YOU
+    text: "Quiet doesn\u2019t always mean safe. Could be a predator nest."
+    portrait: {fileID: 0}
+    choices: []
+  - speaker: LYRA
+    text: Or it could be our only way out before the storm rolls in.
+    portrait: {fileID: 0}
+    choices: []
+  - speaker: REX
+    text: "So it\u2019s music or silence. Fitting, huh?"
+    portrait: {fileID: 0}
+    choices: []
+  - speaker: YOU
+    text: "Right\u2026 rhythm and risk.\r\nLeft\u2026 silence and shadows.\r\n"
+    portrait: {fileID: 0}
+    choices: []
+  - speaker: LYRA
+    text: "Whatever you choose \u2014 listen. The jungle has a way of punishing hesitation.\r\n"
+    portrait: {fileID: 0}
+    choices: []
+  - speaker: REX
+    text: "Your call, captain. Lead us into the noise\u2026 or the quiet."
+    portrait: {fileID: 0}
+    choices: []

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 804e22c69da0c2e4287b5cee9513953e, type: 3}
+  m_Name: JunglePlanet
+  m_EditorClassIdentifier: Assembly-CSharp::PlanetData
+  planetId: verdantia
+  displayName: Verdantia
+  scale: 1
+  icon: {fileID: -8939423455816237073, guid: 147692c352a7a5e4f9c31e3476006713, type: 3}
+  iconScale: 1
+  anchor01: {x: 0.7, y: 0.7}
+  lockCondition: 1
+  requiredFlag: cryovale_completed
+  requiredStoryStep: 3
+  sceneToLoad: 
+  planetViewBG: {fileID: -8939423455816237073, guid: 147692c352a7a5e4f9c31e3476006713, type: 3}
+  areas:
+  - id: Dropzone
+    background: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+    x01: 0.367
+    y01: 0.462
+    minigameId: DrumContest
+    sceneToLoad: Mini_JungleHunt
+    completed: 0
+  orbitRadius: 6
+  orbitSpeed: 12
+  size: 0.2
+  initialAngleDeg: 240
+  unlockedByDefault: 0

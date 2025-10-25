@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5d4eef2bb57e4d52a3768910d54381a, type: 3}
+  m_Name: arrival_melodia
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueSequence
+  lines:
+  - speaker: YOU
+    text: "Melodia\u2026\r\nI thought I was ready to see it again.\r\nBut nothing
+      prepares you for silence this loud.\r\n"
+    portrait: {fileID: -1415270251334004555, guid: 44f32b622977fd74cab25f609ba2f8a4, type: 3}
+    choices: []
+  - speaker: REX
+    text: "Careful out there. Scanners show unstable terrain \u2014 and trace heat
+      signatures. Someone\u2019s alive in that ruin."
+    portrait: {fileID: 2933651739717382301, guid: 0e260a8545833d940833ad70475a43c0, type: 3}
+    choices: []
+  - speaker: YOU
+    text: 'I know who.
+
+      Aurelia.
+
+'
+    portrait: {fileID: -1415270251334004555, guid: 44f32b622977fd74cab25f609ba2f8a4, type: 3}
+    choices: []

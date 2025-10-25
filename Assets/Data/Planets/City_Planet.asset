@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 804e22c69da0c2e4287b5cee9513953e, type: 3}
+  m_Name: City_Planet
+  m_EditorClassIdentifier: Assembly-CSharp::PlanetData
+  planetId: harmonia
+  displayName: Harmonia Prime
+  scale: 1.5
+  icon: {fileID: -8761326591536585127, guid: 87ffc1860566d7c498251d90c832109b, type: 3}
+  iconScale: 1.5
+  anchor01: {x: 0.5, y: 0.5}
+  lockCondition: 1
+  requiredFlag: carceris_completed
+  requiredStoryStep: 1
+  sceneToLoad: 
+  planetViewBG: {fileID: -8761326591536585127, guid: 87ffc1860566d7c498251d90c832109b, type: 3}
+  areas:
+  - id: City_street
+    background: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+    x01: 0.5
+    y01: 0.5
+    minigameId: City
+    sceneToLoad: City_View
+    completed: 0
+  - id: City_basist
+    background: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+    x01: 0.604
+    y01: 0.622
+    minigameId: City_basist
+    sceneToLoad: City_Basist
+    completed: 0
+  orbitRadius: 2
+  orbitSpeed: 12
+  size: 0.2
+  initialAngleDeg: 51
+  unlockedByDefault: 0

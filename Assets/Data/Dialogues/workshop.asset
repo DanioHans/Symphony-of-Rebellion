@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5d4eef2bb57e4d52a3768910d54381a, type: 3}
+  m_Name: workshop
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueSequence
+  lines:
+  - speaker: LYRA
+    text: "If you\u2019re scavengers, don\u2019t bother. I already stripped this
+      place for anything useful."
+    portrait: {fileID: 1070808964735896586, guid: e40b9c8ad5a0de84a824b2b5a174529c, type: 3}
+    choices: []
+  - speaker: YOU
+    text: "We\u2019re not scavengers. Our ship\u2019s grounded \u2014 we just need
+      a few parts to get her flying again."
+    portrait: {fileID: -1415270251334004555, guid: 44f32b622977fd74cab25f609ba2f8a4, type: 3}
+    choices: []
+  - speaker: LYRA
+    text: "Parts, fuel\u2026 everyone\u2019s always digging for scraps.\r\nWhat\u2019s
+      different about you?"
+    portrait: {fileID: 1070808964735896586, guid: e40b9c8ad5a0de84a824b2b5a174529c, type: 3}
+    choices: []
+  - speaker: YOU
+    text: "We\u2019re not trying to survive. We\u2019re trying to restore something
+      \u2014 what the Federation took."
+    portrait: {fileID: -1415270251334004555, guid: 44f32b622977fd74cab25f609ba2f8a4, type: 3}
+    choices: []
+  - speaker: REX
+    text: "We\u2019re bringing music back to the stars. Loudly."
+    portrait: {fileID: 2933651739717382301, guid: 0e260a8545833d940833ad70475a43c0, type: 3}
+    choices: []
+  - speaker: LYRA
+    text: "Music.\r\nHaven\u2019t heard that word said out loud in years."
+    portrait: {fileID: 1070808964735896586, guid: e40b9c8ad5a0de84a824b2b5a174529c, type: 3}
+    choices: []
+  - speaker: YOU
+    text: "Then maybe it\u2019s time someone did."
+    portrait: {fileID: -1415270251334004555, guid: 44f32b622977fd74cab25f609ba2f8a4, type: 3}
+    choices: []
+  - speaker: LYRA
+    text: 'Come to the workshop, take your parts.
+
+      And take me with you.'
+    portrait: {fileID: 1070808964735896586, guid: e40b9c8ad5a0de84a824b2b5a174529c, type: 3}
+    choices: []
+  - speaker: REX
+    text: Just like that?
+    portrait: {fileID: 2933651739717382301, guid: 0e260a8545833d940833ad70475a43c0, type: 3}
+    choices: []
+  - speaker: LYRA
+    text: " I\u2019ve been fixing broken things too long. Time to fix something bigger.\r\n
+      Besides \u2014 if you\u2019re really bringing back sound, you\u2019ll need
+      more than a bass.\r\n You\u2019ll need harmony."
+    portrait: {fileID: 1070808964735896586, guid: e40b9c8ad5a0de84a824b2b5a174529c, type: 3}
+    choices: []
+  - speaker: YOU
+    text: Welcome aboard, Lyra.
+    portrait: {fileID: -1415270251334004555, guid: 44f32b622977fd74cab25f609ba2f8a4, type: 3}
+    choices: []
+  - speaker: LYRA
+    text: "Don\u2019t thank me yet.\r\n Cryovale doesn\u2019t like letting go of
+      its ghosts."
+    portrait: {fileID: 1070808964735896586, guid: e40b9c8ad5a0de84a824b2b5a174529c, type: 3}
+    choices: []
+  - speaker: LYRA
+    text: Let's head to the workshop.
+    portrait: {fileID: 1070808964735896586, guid: e40b9c8ad5a0de84a824b2b5a174529c, type: 3}
+    choices:
+    - label: To the workshop
+      gotoIndex: 0
+      command: workshop

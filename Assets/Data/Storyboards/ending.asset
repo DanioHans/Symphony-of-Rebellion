@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d61a306f24f2e047bf0df558e65a22b, type: 3}
+  m_Name: ending
+  m_EditorClassIdentifier: Assembly-CSharp::StoryboardAsset
+  slides:
+  - image: {fileID: 6658697986722159877, guid: 86577cf1c68e84048ad661d2f0a24642, type: 3}
+    text: 
+    lines:
+    - 'For so long, I thought music was gone forever.
+
+'
+    - "That silence had won \u2014 that we had forgotten how to feel.\r\n"
+    - "But the moment our song filled the air, I saw it\u2026"
+    - Hope. It was there, in every note, every heartbeat, every tear.
+    - "And in that instant \u2014 the galaxy remembered what it had lost."
+    autoAdvanceLines: 0
+    holdSecondsPerLine: 0
+    voiceOver: {fileID: 0}
+    autoAdvance: 0
+    holdSeconds: 0
+    kenBurns: 0
+    panStart01: {x: 0, y: 0}
+    panEnd01: {x: 0, y: 0}
+    zoomStart: 0
+    zoomEnd: 0
+  - image: {fileID: 3639757340558514086, guid: a0e15793e4f13644d876cbe4e376403c, type: 3}
+    text: 
+    lines:
+    - The sound spread through the city like fire.
+    - Neon turned to flame, silence turned to song.
+    - "They tried to drown it out with sirens and steel\u2026"
+    - "but you can\u2019t stop a galaxy once it remembers how to sing."
+    autoAdvanceLines: 0
+    holdSecondsPerLine: 0
+    voiceOver: {fileID: 0}
+    autoAdvance: 0
+    holdSeconds: 0
+    kenBurns: 0
+    panStart01: {x: 0, y: 0}
+    panEnd01: {x: 0, y: 0}
+    zoomStart: 0
+    zoomEnd: 0
+  - image: {fileID: 5021302778192325946, guid: ad3d877f677af5e4fb43cbc54614944b, type: 3}
+    text: 
+    lines:
+    - Even in the darkest cell, the echo found its way in.
+    - "The rhythm beat against the walls \u2014 steady, relentless."
+    - Every chain that fell was another note added to the song.
+    autoAdvanceLines: 0
+    holdSecondsPerLine: 0
+    voiceOver: {fileID: 0}
+    autoAdvance: 0
+    holdSeconds: 0
+    kenBurns: 0
+    panStart01: {x: 0, y: 0}
+    panEnd01: {x: 0, y: 0}
+    zoomStart: 0
+    zoomEnd: 0
+  - image: {fileID: 116895010867521407, guid: eef491c71030ef34f90cb5b653834e14, type: 3}
+    text: 
+    lines:
+    - "And when the silence finally broke\u2026 the galaxy didn\u2019t end."
+    - "It began again \u2014 louder, brighter, freer."
+    - "The music isn\u2019t over."
+    - "And this\u2026 is just the beginning."
+    autoAdvanceLines: 0
+    holdSecondsPerLine: 0
+    voiceOver: {fileID: 0}
+    autoAdvance: 0
+    holdSeconds: 0
+    kenBurns: 0
+    panStart01: {x: 0, y: 0}
+    panEnd01: {x: 0, y: 0}
+    zoomStart: 0
+    zoomEnd: 0

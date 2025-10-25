@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb630a2c97703fc4fbb72d382a02aaac, type: 3}
+  m_Name: reg
+  m_EditorClassIdentifier: Assembly-CSharp::StoryboardRegistry
+  entries:
+  - id: intro
+    asset: {fileID: 11400000, guid: cdbd04702cdf106468ae6800ed1ef9f9, type: 2}
+    postEffectId: 
+  - id: carceris_after
+    asset: {fileID: 11400000, guid: 1952de922fdc5dd40bad39fc34da3618, type: 2}
+    postEffectId: 
+  - id: harmonia_after
+    asset: {fileID: 11400000, guid: aa0af9fcb8d646e49893c8b21febada0, type: 2}
+    postEffectId: 
+  - id: melodia
+    asset: {fileID: 11400000, guid: f63aaf3ebcf54814e902dc3fe337c345, type: 2}
+    postEffectId: 
+  - id: end
+    asset: {fileID: 11400000, guid: fa3daba1a9438bc46bbb4a596e81047c, type: 2}
+    postEffectId: end

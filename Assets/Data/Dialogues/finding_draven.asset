@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5d4eef2bb57e4d52a3768910d54381a, type: 3}
+  m_Name: finding_draven
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueSequence
+  lines:
+  - speaker: DRAVEN
+    text: "You\u2019ve got no right being here, stranger.\r\nThis world answers only
+      to rhythm \u2014 and I don\u2019t hear yours yet.\r\n"
+    portrait: {fileID: 8717023097682995030, guid: a8dfbd30adc1c5047bf79d270a66372c, type: 3}
+    choices: []
+  - speaker: YOU
+    text: "Then let me play it.\r\nI came for you, Draven. The galaxy\u2019s waking
+      up \u2014 and it needs its heartbeat back."
+    portrait: {fileID: -1415270251334004555, guid: 44f32b622977fd74cab25f609ba2f8a4, type: 3}
+    choices: []
+  - speaker: DRAVEN
+    text: "Everyone thinks they can keep time\u2026 until Verdantia tests them.\r\nLet\u2019s
+      see if you can feel the pulse, not just count it.\r\n"
+    portrait: {fileID: 8717023097682995030, guid: a8dfbd30adc1c5047bf79d270a66372c, type: 3}
+    choices: []
+  - speaker: DRAVEN
+    text: How tough do you want your challenge?
+    portrait: {fileID: 8717023097682995030, guid: a8dfbd30adc1c5047bf79d270a66372c, type: 3}
+    choices:
+    - label: Easy
+      gotoIndex: 0
+      command: easy
+    - label: Medium
+      gotoIndex: 0
+      command: medium
+    - label: Hard
+      gotoIndex: 0
+      command: hard

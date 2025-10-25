@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: ae93efe3f65e43b45945ea79638f1919
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4756471349082892723
+    second: Sentry_0
+  - first:
+      213: 8719646004690850693
+    second: Sentry_1
+  - first:
+      213: 5251150785611967737
+    second: Sentry_2
+  - first:
+      213: -4319729470548844069
+    second: Sentry_3
+  - first:
+      213: -4889478149235786582
+    second: Sentry_4
+  - first:
+      213: 4657379364805187760
+    second: Sentry_5
+  - first:
+      213: -7279765193020724153
+    second: Sentry_6
+  - first:
+      213: -4972424274844179180
+    second: Sentry_7
+  - first:
+      213: -53282285461359140
+    second: Sentry_8
+  - first:
+      213: 1591150591199312221
+    second: Sentry_9
+  - first:
+      213: -1125614977638299217
+    second: Sentry_10
+  - first:
+      213: -5407586010749685946
+    second: Sentry_11
+  - first:
+      213: 5471330608065252196
+    second: Sentry_12
+  - first:
+      213: -794781097514844205
+    second: Sentry_13
+  - first:
+      213: 2619831233050073765
+    second: Sentry_14
+  - first:
+      213: 9212329396941769606
+    second: Sentry_15
+  - first:
+      213: -7287815078645833948
+    second: Sentry_16
+  - first:
+      213: 7088807395316413905
+    second: Sentry_17
+  - first:
+      213: -4488523684617609669
+    second: Sentry_18
+  - first:
+      213: 9202883043403145663
+    second: Sentry_19
+  - first:
+      213: 996670184576519547
+    second: Sentry_20
+  - first:
+      213: 5355194933522430185
+    second: Sentry_21
+  - first:
+      213: -8725475605419550598
+    second: Sentry_22
+  - first:
+      213: -5068397344373675781
+    second: Sentry_23
+  - first:
+      213: -3633960998250033214
+    second: Sentry_24
+  - first:
+      213: -5332206262786044633
+    second: Sentry_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sentry_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 491
+        height: 1019
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d465795428e9dfdb0800000000000000
+      internalID: -4756471349082892723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sentry_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 437
+        width: 107
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58390c4b7d7620970800000000000000
+      internalID: 8719646004690850693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sentry_2
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 907
+        width: 15
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc2a6651d5dfd840800000000000000
+      internalID: 5251150785611967737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sentry_3
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 96
+        width: 163
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd16626feec3d04c0800000000000000
+      internalID: -4319729470548844069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sentry_4
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 800
+        width: 68
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac34c16785152cb0800000000000000
+      internalID: -4889478149235786582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sentry_5
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 328
+        width: 335
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8927f3bd552a040800000000000000
+      internalID: 4657379364805187760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sentry_6
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 923
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c2fb5702419fa90800000000000000
+      internalID: -7279765193020724153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sentry_7
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 752
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415226197766efab0800000000000000
+      internalID: -4972424274844179180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sentry_8
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 822
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5314e2b04b24ff0800000000000000
+      internalID: -53282285461359140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sentry_9
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 785
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59769c4807e41610800000000000000
+      internalID: 1591150591199312221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sentry_10
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 807
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9820044230160f0800000000000000
+      internalID: -1125614977638299217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sentry_11
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 295
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64fa4e08c2564f4b0800000000000000
+      internalID: -5407586010749685946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sentry_12
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 711
+        width: 156
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b837e13321eeb40800000000000000
+      internalID: 5471330608065252196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sentry_13
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 161
+        width: 27
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfbe608dce58f4f0800000000000000
+      internalID: -794781097514844205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sentry_14
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 0
+        width: 515
+        height: 1019
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa5c6140a28b5420800000000000000
+      internalID: 2619831233050073765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sentry_15
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 160
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b4a9a07c4c8df70800000000000000
+      internalID: 9212329396941769606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sentry_16
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 119
+        width: 72
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f54986cca7cda90800000000000000
+      internalID: -7287815078645833948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sentry_17
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 295
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d53ff694c0806260800000000000000
+      internalID: 7088807395316413905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sentry_18
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 782
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e90747d7f85b1c0800000000000000
+      internalID: -4488523684617609669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sentry_19
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 791
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1a2877e5537bf70800000000000000
+      internalID: 9202883043403145663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sentry_20
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 819
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d08e59042e4dd00800000000000000
+      internalID: 996670184576519547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sentry_21
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 758
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e873934b69715a40800000000000000
+      internalID: 5355194933522430185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sentry_22
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 803
+        width: 75
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7891aa9a22e8e680800000000000000
+      internalID: -8725475605419550598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sentry_23
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 753
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8e214087f69a9b0800000000000000
+      internalID: -5068397344373675781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sentry_24
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 895
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfcea3c9b3919dc0800000000000000
+      internalID: -3633960998250033214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sentry_25
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 437
+        width: 155
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d468db7a23006b0800000000000000
+      internalID: -5332206262786044633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sentry_0: -4756471349082892723
+      Sentry_1: 8719646004690850693
+      Sentry_10: -1125614977638299217
+      Sentry_11: -5407586010749685946
+      Sentry_12: 5471330608065252196
+      Sentry_13: -794781097514844205
+      Sentry_14: 2619831233050073765
+      Sentry_15: 9212329396941769606
+      Sentry_16: -7287815078645833948
+      Sentry_17: 7088807395316413905
+      Sentry_18: -4488523684617609669
+      Sentry_19: 9202883043403145663
+      Sentry_2: 5251150785611967737
+      Sentry_20: 996670184576519547
+      Sentry_21: 5355194933522430185
+      Sentry_22: -8725475605419550598
+      Sentry_23: -5068397344373675781
+      Sentry_24: -3633960998250033214
+      Sentry_25: -5332206262786044633
+      Sentry_3: -4319729470548844069
+      Sentry_4: -4889478149235786582
+      Sentry_5: 4657379364805187760
+      Sentry_6: -7279765193020724153
+      Sentry_7: -4972424274844179180
+      Sentry_8: -53282285461359140
+      Sentry_9: 1591150591199312221
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

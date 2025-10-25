@@ -1,0 +1,184 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d61a306f24f2e047bf0df558e65a22b, type: 3}
+  m_Name: intro
+  m_EditorClassIdentifier: Assembly-CSharp::StoryboardAsset
+  slides:
+  - image: {fileID: -6479558217058493216, guid: 655e531386b2bfe4e8ca45efe22f08ea, type: 3}
+    text: 
+    lines:
+    - When I was young, the galaxy was alive with sound.
+    - "Every world sang its own song \u2014 oceans hummed, cities echoed with symphonies,
+      and even the stars pulsed to the rhythm of life."
+    - "We didn\u2019t just listen to music \u2014 we lived inside it."
+    autoAdvanceLines: 0
+    holdSecondsPerLine: 0
+    voiceOver: {fileID: 0}
+    autoAdvance: 0
+    holdSeconds: 0
+    kenBurns: 0
+    panStart01: {x: 0, y: 0}
+    panEnd01: {x: 0, y: 0}
+    zoomStart: 0
+    zoomEnd: 0
+  - image: {fileID: 3247213607176723832, guid: e1cb3e76ca8e5024d8565bd9566d74be, type: 3}
+    text: 
+    lines:
+    - "\u201CI grew up on Melodia \u2014 the heart of it all. The Planet of Song."
+    - Every street corner had a melody, every sunrise came with a chorus.
+    - " They called us the voice of the galaxy. Back then, it felt like nothing could
+      silence us.\u201D\r\n"
+    autoAdvanceLines: 0
+    holdSecondsPerLine: 0
+    voiceOver: {fileID: 0}
+    autoAdvance: 0
+    holdSeconds: 0
+    kenBurns: 0
+    panStart01: {x: 0, y: 0}
+    panEnd01: {x: 0, y: 0}
+    zoomStart: 0
+    zoomEnd: 0
+  - image: {fileID: -8939423455816237073, guid: 8ec43a3fe356572459f4a7ff151de1d0, type: 3}
+    text: 
+    lines:
+    - "Even the wild worlds played their part. Verdantia \u2014 the jungle planet
+      \u2014 where the trees drummed and rivers danced."
+    - "They said you could feel the heartbeat of the universe there\u2026 and I believed
+      it.\r\n"
+    autoAdvanceLines: 0
+    holdSecondsPerLine: 0
+    voiceOver: {fileID: 0}
+    autoAdvance: 0
+    holdSeconds: 0
+    kenBurns: 0
+    panStart01: {x: 0, y: 0}
+    panEnd01: {x: 0, y: 0}
+    zoomStart: 0
+    zoomEnd: 0
+  - image: {fileID: 6453940607181021465, guid: c5e0f6c6510ef66479cafeb137a22015, type: 3}
+    text: 
+    lines:
+    - Then there was Cryovale, frozen and eternal. The wind there sang through crystal
+      pillars, haunting and pure.
+    - "You could hear the past in those notes \u2014 reminders that music wasn\u2019t
+      just art. It was history.\r\n"
+    autoAdvanceLines: 0
+    holdSecondsPerLine: 0
+    voiceOver: {fileID: 0}
+    autoAdvance: 0
+    holdSeconds: 0
+    kenBurns: 0
+    panStart01: {x: 0, y: 0}
+    panEnd01: {x: 0, y: 0}
+    zoomStart: 0
+    zoomEnd: 0
+  - image: {fileID: -8309105244518841700, guid: 8a12d6ceae700b446bb51fcb78f1220e, type: 3}
+    text: 
+    lines:
+    - "But then\u2026 they came."
+    - "The Orpheon Federation \u2014 from beyond our stars. They said they brought
+      order. Peace. But what they really feared was freedom\u2026 and nothing is
+      freer than a song.\r\n"
+    autoAdvanceLines: 0
+    holdSecondsPerLine: 0
+    voiceOver: {fileID: 0}
+    autoAdvance: 0
+    holdSeconds: 0
+    kenBurns: 0
+    panStart01: {x: 0, y: 0}
+    panEnd01: {x: 0, y: 0}
+    zoomStart: 0
+    zoomEnd: 0
+  - image: {fileID: -7443985153171659067, guid: 0dbaf032964fd234183ffae35660f37b, type: 3}
+    text: 
+    lines:
+    - The Silencing began. They burned our instruments. Banned our music. Said harmony
+      was chaos, and silence was salvation.
+    - "I watched Melodia \u2014 my home \u2014 turn to ash. The songs of billions,
+      erased in a single breath.\r\n"
+    autoAdvanceLines: 0
+    holdSecondsPerLine: 0
+    voiceOver: {fileID: 0}
+    autoAdvance: 0
+    holdSeconds: 0
+    kenBurns: 0
+    panStart01: {x: 0, y: 0}
+    panEnd01: {x: 0, y: 0}
+    zoomStart: 0
+    zoomEnd: 0
+  - image: {fileID: -8491745083130152305, guid: 0eb63164647889e41886325ac596bf04, type: 3}
+    text: 
+    lines:
+    - "After Melodia burned, the Federation built a new capital \u2014 Harmonia Prime."
+    - A world forged from silence, where every light, every broadcast, every step
+      follows their rhythm.
+    - "It hums without music, shines without soul. A monument to order \u2014 and
+      a grave for everything we once were.\r\n"
+    autoAdvanceLines: 0
+    holdSecondsPerLine: 0
+    voiceOver: {fileID: 0}
+    autoAdvance: 0
+    holdSeconds: 0
+    kenBurns: 0
+    panStart01: {x: 0, y: 0}
+    panEnd01: {x: 0, y: 0}
+    zoomStart: 0
+    zoomEnd: 0
+  - image: {fileID: -8913485672592191908, guid: 8e9519fc6d2e6104882b3c797344d48e, type: 3}
+    text: 
+    lines:
+    - "And those of us who still remembered the old songs? They locked us away \u2014
+      sent us to Carceris, the prison moon."
+    - "Here, there\u2019s no day, no night\u2026 only the hum of machines and the
+      ghosts of what we used to be."
+    autoAdvanceLines: 0
+    holdSecondsPerLine: 0
+    voiceOver: {fileID: 0}
+    autoAdvance: 0
+    holdSeconds: 0
+    kenBurns: 0
+    panStart01: {x: 0, y: 0}
+    panEnd01: {x: 0, y: 0}
+    zoomStart: 0
+    zoomEnd: 0
+  - image: {fileID: 6159601441359705785, guid: 0e1e8d4ea257c6b4aa2f7180c36c7bdd, type: 3}
+    text: 
+    lines:
+    - "But even here\u2026 music survives. In whispers. In memory."
+    - I heard whispers... about a man who still plays. Rex.
+    - "They say he\u2019s alive \u2014 somewhere in Harmonia Prime. And for the first
+      time in years... I felt rhythm again.\r\n"
+    autoAdvanceLines: 0
+    holdSecondsPerLine: 0
+    voiceOver: {fileID: 0}
+    autoAdvance: 0
+    holdSeconds: 0
+    kenBurns: 0
+    panStart01: {x: 0, y: 0}
+    panEnd01: {x: 0, y: 0}
+    zoomStart: 0
+    zoomEnd: 0
+  - image: {fileID: -8309105244518841700, guid: 8a12d6ceae700b446bb51fcb78f1220e, type: 3}
+    text: 
+    lines:
+    - "I didn\u2019t know what waited for me on Harmonia Prime. Maybe death. Maybe
+      destiny. But I knew one thing \u2014 the silence was ending.\r\n"
+    autoAdvanceLines: 0
+    holdSecondsPerLine: 0
+    voiceOver: {fileID: 0}
+    autoAdvance: 0
+    holdSeconds: 0
+    kenBurns: 0
+    panStart01: {x: 0, y: 0}
+    panEnd01: {x: 0, y: 0}
+    zoomStart: 0
+    zoomEnd: 0

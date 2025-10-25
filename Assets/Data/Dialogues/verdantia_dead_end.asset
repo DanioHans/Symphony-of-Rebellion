@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5d4eef2bb57e4d52a3768910d54381a, type: 3}
+  m_Name: verdantia_dead_end
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueSequence
+  lines:
+  - speaker: LYRA
+    text: "Wait\u2026 do you hear that?"
+    portrait: {fileID: 1070808964735896586, guid: e40b9c8ad5a0de84a824b2b5a174529c, type: 3}
+    choices: []
+  - speaker: REX
+    text: "Yeah. And whatever\u2019s making it isn\u2019t friendly."
+    portrait: {fileID: 2933651739717382301, guid: 0e260a8545833d940833ad70475a43c0, type: 3}
+    choices: []
+  - speaker: YOU
+    text: "Stay sharp. That sound\u2019s coming from ahead\u2014"
+    portrait: {fileID: -1415270251334004555, guid: 44f32b622977fd74cab25f609ba2f8a4, type: 3}
+    choices: []
+  - speaker: YOU
+    text: These waterfalls are majestic! I do not think we can proceed further though,
+      we should find another way.
+    portrait: {fileID: -1415270251334004555, guid: 44f32b622977fd74cab25f609ba2f8a4, type: 3}
+    choices: []
+  - speaker: LYRA
+    text: "Yes I agree, we can\u2019t go through that. The path\u2019s alive."
+    portrait: {fileID: 1070808964735896586, guid: e40b9c8ad5a0de84a824b2b5a174529c, type: 3}
+    choices: []
+  - speaker: REX
+    text: Ok, let's go then.
+    portrait: {fileID: 2933651739717382301, guid: 0e260a8545833d940833ad70475a43c0, type: 3}
+    choices: []

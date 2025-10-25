@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5d4eef2bb57e4d52a3768910d54381a, type: 3}
+  m_Name: pub
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueSequence
+  lines:
+  - speaker: YOU
+    text: "Hey \u2014 I\u2019m looking for someone named Rex. Big guy, carries a
+      bass, louder scowl. You seen him around?"
+    portrait: {fileID: -1415270251334004555, guid: 44f32b622977fd74cab25f609ba2f8a4, type: 3}
+    choices: []
+  - speaker: BARTENDER
+    text: "If you\u2019ve heard a bass line that shakes your ribs, you\u2019ve found
+      him.\nHe drops by when the generator\u2019s humming low \u2014 says that\u2019s
+      when the planet\u2019s got rhythm again."
+    portrait: {fileID: -1415270251334004555, guid: 44f32b622977fd74cab25f609ba2f8a4, type: 3}
+    choices: []
+  - speaker: PATRON #1
+    text: "Rhythm. He talks like music\u2019s still a living thing. Most of us traded
+      songs for heat a long time ago."
+    portrait: {fileID: -1415270251334004555, guid: 44f32b622977fd74cab25f609ba2f8a4, type: 3}
+    choices: []
+  - speaker: YOU
+    text: "So he still\u2026 plays?"
+    portrait: {fileID: -1415270251334004555, guid: 44f32b622977fd74cab25f609ba2f8a4, type: 3}
+    choices: []
+  - speaker: BARTENDER
+    text: "Sometimes. Says a good bass line can keep the blood moving \u2014 \u201Cheartbeat
+      for a dead world,\u201D he called it once.\nNot that he lets anyone listen
+      for long."
+    portrait: {fileID: -1415270251334004555, guid: 44f32b622977fd74cab25f609ba2f8a4, type: 3}
+    choices: []
+  - speaker: PATRON #2
+    text: "If you\u2019re trying to talk to him, don\u2019t use big words or causes.\nTalk
+      about sound. About pulse. He\u2019ll pretend not to care, but that\u2019s his
+      language."
+    portrait: {fileID: -1415270251334004555, guid: 44f32b622977fd74cab25f609ba2f8a4, type: 3}
+    choices: []
+  - speaker: YOU
+    text: Pulse. Got it. Thanks.
+    portrait: {fileID: -1415270251334004555, guid: 44f32b622977fd74cab25f609ba2f8a4, type: 3}
+    choices: []
+  - speaker: BARTENDER
+    text: "If he starts tapping his fingers while you talk, you\u2019re winning.\nIf
+      he stops \u2014 you\u2019ve lost him."
+    portrait: {fileID: -1415270251334004555, guid: 44f32b622977fd74cab25f609ba2f8a4, type: 3}
+    choices: []

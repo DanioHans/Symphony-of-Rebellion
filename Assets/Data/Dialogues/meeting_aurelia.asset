@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5d4eef2bb57e4d52a3768910d54381a, type: 3}
+  m_Name: meeting_aurelia
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueSequence
+  lines:
+  - speaker: AURELIA
+    text: "Don\u2019t come closer.\r\nThe dead deserve peace \u2014 even the ones
+      still breathing.\r\n"
+    portrait: {fileID: 148769857890242446, guid: ce94a28899b49a3478c5d6857eccde7b, type: 3}
+    choices: []
+  - speaker: YOU
+    text: "I came to find you.\r\nMelodia\u2019s not gone, Aurelia. It\u2019s waiting
+      \u2014 like you.\r\n"
+    portrait: {fileID: -1415270251334004555, guid: 44f32b622977fd74cab25f609ba2f8a4, type: 3}
+    choices: []
+  - speaker: AURELIA
+    text: 'Waiting for what?
+
+      For music that will never be heard?
+
+      For
+      an audience turned to dust?'
+    portrait: {fileID: 148769857890242446, guid: ce94a28899b49a3478c5d6857eccde7b, type: 3}
+    choices: []
+  - speaker: YOU
+    text: 'For you to remember who you were.
+
+      The one who could make the stars
+      cry with a single note.
+
+'
+    portrait: {fileID: -1415270251334004555, guid: 44f32b622977fd74cab25f609ba2f8a4, type: 3}
+    choices: []
+  - speaker: AURELIA
+    text: 'That person died when they burned this world.
+
+      I have nothing left
+      to play for.
+
+'
+    portrait: {fileID: 148769857890242446, guid: ce94a28899b49a3478c5d6857eccde7b, type: 3}
+    choices: []

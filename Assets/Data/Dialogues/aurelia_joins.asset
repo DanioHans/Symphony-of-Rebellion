@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5d4eef2bb57e4d52a3768910d54381a, type: 3}
+  m_Name: aurelia_joins
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueSequence
+  lines:
+  - speaker: 
+    text: "[When the last note fades, Aurelia lowers her sax. She\u2019s crying \u2014
+      but standing straighter.]"
+    portrait: {fileID: 0}
+    choices: []
+  - speaker: AURELIA
+    text: "You stubborn fool\u2026\r\nYou never stopped believing, did you?\r\n"
+    portrait: {fileID: 148769857890242446, guid: ce94a28899b49a3478c5d6857eccde7b, type: 3}
+    choices: []
+  - speaker: YOU
+    text: 'Someone had to hold the melody.
+
+'
+    portrait: {fileID: -1415270251334004555, guid: 44f32b622977fd74cab25f609ba2f8a4, type: 3}
+    choices: []
+  - speaker: AURELIA
+    text: "If we play again\u2026 we play to end this silence.\r\nNo more hiding.
+      No more mourning.\r\n"
+    portrait: {fileID: 148769857890242446, guid: ce94a28899b49a3478c5d6857eccde7b, type: 3}
+    choices: []
+  - speaker: YOU
+    text: "Then you\u2019re with us.\r\n"
+    portrait: {fileID: -1415270251334004555, guid: 44f32b622977fd74cab25f609ba2f8a4, type: 3}
+    choices: []
+  - speaker: AURELIA
+    text: "I Am. But we don\u2019t just need instruments \u2014 we need access. Harmonia
+      Prime holds the Federation\u2019s Founding Festival. Their central stage is
+      their signal hub.\r\n"
+    portrait: {fileID: 148769857890242446, guid: ce94a28899b49a3478c5d6857eccde7b, type: 3}
+    choices: []
+  - speaker: YOU
+    text: So we take the stage.
+    portrait: {fileID: -1415270251334004555, guid: 44f32b622977fd74cab25f609ba2f8a4, type: 3}
+    choices: []
+  - speaker: AURELIA
+    text: "Exactly. We\u2019ll have to move like their own: disguises, guard uniforms,
+      a staged escort \u2014 anything to get us onto that platform without sounding
+      an alarm."
+    portrait: {fileID: 148769857890242446, guid: ce94a28899b49a3478c5d6857eccde7b, type: 3}
+    choices: []
+  - speaker: YOU
+    text: "We\u2019ll wear their silence until we can cut it out."
+    portrait: {fileID: -1415270251334004555, guid: 44f32b622977fd74cab25f609ba2f8a4, type: 3}
+    choices: []
+  - speaker: AURELIA
+    text: "Then let\u2019s go make them listen."
+    portrait: {fileID: -1415270251334004555, guid: 44f32b622977fd74cab25f609ba2f8a4, type: 3}
+    choices: []

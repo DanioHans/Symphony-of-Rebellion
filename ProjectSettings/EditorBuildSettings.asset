@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StarMap.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Mini_StealthPrison.unity
+    guid: eccd05e6ec06ade4190206a62e23eae6
+  - enabled: 1
+    path: Assets/Scenes/Mini_Taiko.unity
+    guid: 288f149a485bdfc49aa956b4bf43d56c
+  - enabled: 1
+    path: Assets/Scenes/Mini_JungleHunt.unity
+    guid: 36c348bf72367ea44a5fa187bf4ca94f
+  - enabled: 1
+    path: Assets/Scenes/City_Basist.unity
+    guid: 2c84924d8b227244a973a4aae3e445d9
+  - enabled: 1
+    path: Assets/Scenes/City_View.unity
+    guid: ef13c97cf7c5cee46b9720a352afeb00
+  - enabled: 1
+    path: Assets/Scenes/Mini_City.unity
+    guid: 1cc5273382dd8a049927868cbfbe8eda
+  - enabled: 0
+    path: Assets/Scenes/OrreryPrototype.unity
+    guid: 5bf7d9e0ab42f384c9368b806499138f
+  - enabled: 1
+    path: Assets/Scenes/Cryo_landing.unity
+    guid: 6ec7a9cf00d22954a80c3c6292049f59
+  - enabled: 1
+    path: Assets/Scenes/Mini_ShipRepair.unity
+    guid: 787c22f18c1b40a4e8de3b335526633d
+  - enabled: 1
+    path: Assets/Scenes/Melodia.unity
+    guid: 4388d137cd101fa49b9480efbc3fbb59
+  - enabled: 1
+    path: Assets/Scenes/CreditsScene.unity
+    guid: 59eb1396dd6dd5540860f474748bfed8
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0

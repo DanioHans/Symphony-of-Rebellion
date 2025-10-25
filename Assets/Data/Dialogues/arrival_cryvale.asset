@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5d4eef2bb57e4d52a3768910d54381a, type: 3}
+  m_Name: arrival_cryvale
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueSequence
+  lines:
+  - speaker: REX
+    text: "Hull integrity\u2019s gone. Engines are iced solid. You\u2019ll need replacement
+      parts before we even think about lifting off."
+    portrait: {fileID: 2933651739717382301, guid: 0e260a8545833d940833ad70475a43c0, type: 3}
+    choices: []
+  - speaker: YOU
+    text: "Copy that. I\u2019ll search the outpost ruins \u2014 maybe the Feds left
+      something useful when they froze this place over."
+    portrait: {fileID: -1415270251334004555, guid: 44f32b622977fd74cab25f609ba2f8a4, type: 3}
+    choices: []
+  - speaker: REX
+    text: "Watch your step. Cryovale\u2019s dead quiet for a reason.\r\nSilence isn\u2019t
+      just a rule here\u2026 it\u2019s the only thing that survives.\r\n"
+    portrait: {fileID: 2933651739717382301, guid: 0e260a8545833d940833ad70475a43c0, type: 3}
+    choices: []

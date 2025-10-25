@@ -1,0 +1,283 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 818237168a00286419cf98c36274ac66, type: 3}
+  m_Name: Jungle_Medium
+  m_EditorClassIdentifier: Assembly-CSharp::TaikoChart
+  music: {fileID: 8300000, guid: 1783461022209e54bb64fafb3fd12f92, type: 3}
+  bpm: 250
+  songOffsetSec: 0.189
+  approachBeats: 6
+  allowedMisses: 8
+  winScore: 5000
+  notes:
+  - beat: 0
+    lane: 0
+  - beat: 1.5
+    lane: 0
+  - beat: 3
+    lane: 0
+  - beat: 16
+    lane: 0
+  - beat: 17.5
+    lane: 0
+  - beat: 19
+    lane: 0
+  - beat: 32.095833
+    lane: 0
+  - beat: 33.608334
+    lane: 1
+  - beat: 35.120834
+    lane: 1
+  - beat: 36.125
+    lane: 0
+  - beat: 41.166668
+    lane: 1
+  - beat: 42.175
+    lane: 0
+  - beat: 44.191666
+    lane: 0
+  - beat: 48.225
+    lane: 0
+  - beat: 49.7375
+    lane: 0
+  - beat: 51.25
+    lane: 1
+  - beat: 52.254166
+    lane: 0
+  - beat: 56.2875
+    lane: 1
+  - beat: 57.8
+    lane: 1
+  - beat: 59.3125
+    lane: 0
+  - beat: 60.320835
+    lane: 0
+  - beat: 64.354164
+    lane: 0
+  - beat: 65.86667
+    lane: 1
+  - beat: 67.375
+    lane: 0
+  - beat: 68.38333
+    lane: 1
+  - beat: 72.416664
+    lane: 0
+  - beat: 73.92917
+    lane: 1
+  - beat: 75.441666
+    lane: 1
+  - beat: 76.45
+    lane: 0
+  - beat: 80.48333
+    lane: 0
+  - beat: 81.995834
+    lane: 1
+  - beat: 83.504166
+    lane: 1
+  - beat: 84.5125
+    lane: 0
+  - beat: 88.54583
+    lane: 0
+  - beat: 90.5625
+    lane: 1
+  - beat: 92.57917
+    lane: 0
+  - beat: 96.6125
+    lane: 0
+  - beat: 98.125
+    lane: 1
+  - beat: 99.63333
+    lane: 0
+  - beat: 100.64167
+    lane: 1
+  - beat: 104.675
+    lane: 0
+  - beat: 106.1875
+    lane: 1
+  - beat: 107.7
+    lane: 0
+  - beat: 108.708336
+    lane: 1
+  - beat: 112.74167
+    lane: 0
+  - beat: 114.25
+    lane: 1
+  - beat: 115.7625
+    lane: 0
+  - beat: 116.770836
+    lane: 1
+  - beat: 120.80417
+    lane: 1
+  - beat: 122.316666
+    lane: 0
+  - beat: 123.82917
+    lane: 1
+  - beat: 124.8375
+    lane: 0
+  - beat: 128.87083
+    lane: 1
+  - beat: 130.37917
+    lane: 0
+  - beat: 131.89166
+    lane: 1
+  - beat: 132.9
+    lane: 0
+  - beat: 134.91667
+    lane: 1
+  - beat: 136.93333
+    lane: 1
+  - beat: 138.95
+    lane: 0
+  - beat: 140.96666
+    lane: 1
+  - beat: 142.98334
+    lane: 0
+  - beat: 145
+    lane: 1
+  - beat: 146.50833
+    lane: 0
+  - beat: 148.02083
+    lane: 1
+  - beat: 149.02916
+    lane: 0
+  - beat: 151.04584
+    lane: 1
+  - beat: 153.0625
+    lane: 0
+  - beat: 157.09584
+    lane: 1
+  - beat: 159.1125
+    lane: 1
+  - beat: 161.125
+    lane: 0
+  - beat: 162.6375
+    lane: 1
+  - beat: 164.15
+    lane: 0
+  - beat: 165.15834
+    lane: 0
+  - beat: 166.67084
+    lane: 1
+  - beat: 168.18333
+    lane: 1
+  - beat: 169.19167
+    lane: 0
+  - beat: 170.70416
+    lane: 1
+  - beat: 172.21666
+    lane: 0
+  - beat: 173.225
+    lane: 0
+  - beat: 177.25417
+    lane: 1
+  - beat: 178.76666
+    lane: 1
+  - beat: 180.27916
+    lane: 0
+  - beat: 181.2875
+    lane: 0
+  - beat: 182.8
+    lane: 1
+  - beat: 184.3125
+    lane: 0
+  - beat: 185.32083
+    lane: 0
+  - beat: 187.3375
+    lane: 1
+  - beat: 189.35417
+    lane: 0
+  - beat: 190.3625
+    lane: 1
+  - beat: 191.37083
+    lane: 0
+  - beat: 193.38333
+    lane: 0
+  - beat: 194.89583
+    lane: 1
+  - beat: 197.41667
+    lane: 0
+  - beat: 198.92917
+    lane: 0
+  - beat: 200.44167
+    lane: 0
+  - beat: 201.45
+    lane: 0
+  - beat: 202.9625
+    lane: 1
+  - beat: 204.475
+    lane: 1
+  - beat: 207.5
+    lane: 0
+  - beat: 208.50417
+    lane: 0
+  - beat: 209.5125
+    lane: 1
+  - beat: 211.025
+    lane: 1
+  - beat: 212.5375
+    lane: 1
+  - beat: 215.5625
+    lane: 1
+  - beat: 216.57083
+    lane: 1
+  - beat: 217.57916
+    lane: 1
+  - beat: 220.60417
+    lane: 0
+  - beat: 221.6125
+    lane: 1
+  - beat: 223.625
+    lane: 1
+  - beat: 225.64166
+    lane: 1
+  - beat: 227.15416
+    lane: 1
+  - beat: 228.66667
+    lane: 1
+  - beat: 231.69167
+    lane: 0
+  - beat: 233.70833
+    lane: 1
+  - beat: 235.22084
+    lane: 1
+  - beat: 236.73334
+    lane: 0
+  - beat: 239.75417
+    lane: 0
+  - beat: 241.77083
+    lane: 1
+  - beat: 243.28334
+    lane: 1
+  - beat: 245.80417
+    lane: 0
+  - beat: 249.8375
+    lane: 0
+  - beat: 251.35
+    lane: 0
+  - beat: 253.87083
+    lane: 0
+  - beat: 257.9
+    lane: 1
+  - beat: 259.4125
+    lane: 1
+  - beat: 261.93332
+    lane: 1
+  - beat: 265.43332
+    lane: 0
+  - beat: 267.93332
+    lane: 0
+  - beat: 269.93332
+    lane: 1
+  - beat: 271.93332
+    lane: 0
+  - beat: 272.43332
+    lane: 0

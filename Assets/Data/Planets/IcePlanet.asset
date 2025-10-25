@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 804e22c69da0c2e4287b5cee9513953e, type: 3}
+  m_Name: IcePlanet
+  m_EditorClassIdentifier: Assembly-CSharp::PlanetData
+  planetId: cryovale
+  displayName: Cryovale
+  scale: 1.2
+  icon: {fileID: 2319723267486574329, guid: f1e28e17ce310b84686640065ba01def, type: 3}
+  iconScale: 1
+  anchor01: {x: 0.2, y: 0.8}
+  lockCondition: 1
+  requiredFlag: harmonia_completed
+  requiredStoryStep: 2
+  sceneToLoad: 
+  planetViewBG: {fileID: 2319723267486574329, guid: f1e28e17ce310b84686640065ba01def, type: 3}
+  areas:
+  - id: landing
+    background: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+    x01: 0.335
+    y01: 0.546
+    minigameId: Cryo_landing
+    sceneToLoad: Cryo_landing
+    completed: 0
+  orbitRadius: 5
+  orbitSpeed: 12
+  size: 0.1
+  initialAngleDeg: 174
+  unlockedByDefault: 0

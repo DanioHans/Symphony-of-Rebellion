@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5d4eef2bb57e4d52a3768910d54381a, type: 3}
+  m_Name: Prison
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueSequence
+  lines:
+  - speaker: You
+    text: "They took our voices\u2026 but not our pulse. You feel that? It\u2019s
+      still beating. Waiting."
+    portrait: {fileID: -1415270251334004555, guid: 44f32b622977fd74cab25f609ba2f8a4, type: 3}
+    choices: []
+  - speaker: RHYTH
+    text: I say we make some noise. Enough to wake the dead.
+    portrait: {fileID: -1415270251334004555, guid: 44f32b622977fd74cab25f609ba2f8a4, type: 3}
+    choices: []
+  - speaker: NOVA
+    text: "Keep it down \u2014 the silence sensors will pick up even a whisper."
+    portrait: {fileID: -1415270251334004555, guid: 44f32b622977fd74cab25f609ba2f8a4, type: 3}
+    choices: []
+  - speaker: YOU
+    text: Then we give them something worth hearing.
+    portrait: {fileID: -1415270251334004555, guid: 44f32b622977fd74cab25f609ba2f8a4, type: 3}
+    choices: []
+  - speaker: 
+    text: "[She taps on a metal bar \u2014 rhythmically. A simple beat. Others join
+      in with small percussive sounds \u2014 tapping pipes, snapping fingers.]"
+    portrait: {fileID: 0}
+    choices: []
+  - speaker: RHYTH
+    text: "(laughs softly)\r\nThat\u2019s it\u2026 that\u2019s the sound they fear.\r\n"
+    portrait: {fileID: -1415270251334004555, guid: 44f32b622977fd74cab25f609ba2f8a4, type: 3}
+    choices: []
+  - speaker: NOVA
+    text: "Security grid\u2019s blind for six seconds if I overload the dampeners.
+      After that, we move.\r\n"
+    portrait: {fileID: -1415270251334004555, guid: 44f32b622977fd74cab25f609ba2f8a4, type: 3}
+    choices: []
+  - speaker: YOU
+    text: "Then count us in. On your cue, we\u2019ll break not just out \u2014 but
+      through."
+    portrait: {fileID: -1415270251334004555, guid: 44f32b622977fd74cab25f609ba2f8a4, type: 3}
+    choices: []
+  - speaker: 
+    text: "[Alarms begin to distort \u2014 tones warping into something almost musical.]"
+    portrait: {fileID: 0}
+    choices: []
+  - speaker: NOVA
+    text: "Three\u2026 two\u2026 one - GO!"
+    portrait: {fileID: -1415270251334004555, guid: 44f32b622977fd74cab25f609ba2f8a4, type: 3}
+    choices: []
+  - speaker: 
+    text: "[Explosion of rhythm \u2014 improvised instruments clash with the sound
+      of shattering restraints. Echoes fill the corridor. The silence field collapses
+      with a sonic wave.]"
+    portrait: {fileID: 0}
+    choices: []
+  - speaker: YOU
+    text: "Let them. It\u2019s the first note of the new symphony."
+    portrait: {fileID: -1415270251334004555, guid: 44f32b622977fd74cab25f609ba2f8a4, type: 3}
+    choices: []
+  - speaker: YOU
+    text: I'll have to move left and right to dodge the guards.
+    portrait: {fileID: -1415270251334004555, guid: 44f32b622977fd74cab25f609ba2f8a4, type: 3}
+    choices: []

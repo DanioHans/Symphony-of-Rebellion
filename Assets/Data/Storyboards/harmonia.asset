@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d61a306f24f2e047bf0df558e65a22b, type: 3}
+  m_Name: harmonia
+  m_EditorClassIdentifier: Assembly-CSharp::StoryboardAsset
+  slides:
+  - image: {fileID: 73765228155091788, guid: 2d0d70f249e203747bde31d86cb9cb56, type: 3}
+    text: 
+    lines:
+    - "The ship took a hit \u2014 engines failing, controls burning under my hands."
+    - "I didn\u2019t have a choice\u2026 I aimed for the nearest world I could find.\r\nCryovale
+      \u2014 frozen, silent\u2026 but not lifeless."
+    - "Someone\u2019s still out there. And if I can find them, maybe I\u2019ll survive."
+    autoAdvanceLines: 0
+    holdSecondsPerLine: 0
+    voiceOver: {fileID: 0}
+    autoAdvance: 0
+    holdSeconds: 0
+    kenBurns: 0
+    panStart01: {x: 0, y: 0}
+    panEnd01: {x: 0, y: 0}
+    zoomStart: 0
+    zoomEnd: 0
+  - image: {fileID: -1778171604891230935, guid: e4ce351e2c3c4cd45ac685f1926f5831, type: 3}
+    text: 
+    lines:
+    - "I managed to land\u2026 barely. The ship\u2019s a wreck, and I\u2019ll need
+      to fix it before I can move on."
+    - "The cold here cuts deeper than steel, and the silence \u2014 it feels almost
+      sacred. But beneath the ice\u2026 I can sense something."
+    - "A rhythm \u2014 faint, but alive."
+    autoAdvanceLines: 0
+    holdSecondsPerLine: 0
+    voiceOver: {fileID: 0}
+    autoAdvance: 0
+    holdSeconds: 0
+    kenBurns: 0
+    panStart01: {x: 0, y: 0}
+    panEnd01: {x: 0, y: 0}
+    zoomStart: 0
+    zoomEnd: 0
