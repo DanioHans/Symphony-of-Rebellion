@@ -1,0 +1,1 @@
+Importing this project will likely result in poor AI performance, due to me not wanting to use Git Large File Storage, the CUDA dll is not included. This dll can be found [here](https://drive.google.com/file/d/1lTRGcGb5MCuH3rxwEZAS5nbH5oVYag5K/view?usp=sharing)
